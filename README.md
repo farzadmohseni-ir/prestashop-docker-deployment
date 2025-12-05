@@ -230,17 +230,4 @@ prestashop-docker-deployment/
 │
 ├── docker-compose.yml
 ├── README.md
-├── .gitignore
-│
-├── docs/
-│   └── report.pdf
-│
-├── screenshots/
-│   ├── frontend.png
-│   ├── admin-panel.png
-│   └── docker.png
-│
-└── videos/
-    ├── demo-short-link.txt
-    └── demo-full-link.txt
 ```
